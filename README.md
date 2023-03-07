@@ -15,7 +15,7 @@ make all
 
 ## Usage
 
-To run the Lispy REPL after building simply run:
+To run lispy's REPL after building run:
 
 ```bash
 ./lispy
